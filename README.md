@@ -1,7 +1,14 @@
-https://raw.githack.com/
+# Learning Website - Module 322 (ZP Lernziele)
 
-https://rawcdn.githack.com/KLubina/My-Learning-Websites/6d8bb2b053db5fdcbb5781d058304fdf9683fa01/lernziele-modul-322-branch/index.html
+![Preview](pictures-for-readme/preview.png)
 
-http://localhost/lern-webseite-zur-2ten-ZP/
+## 🔗 Live Demo  
+[View the Website](https://rawcdn.githack.com/KLubina/learning-website-1.ZP-lernziele-modul-322/f62bd6d774c362d796f33d3317ebc2d9efe8f2d4/index.html)  
 
-https://rawcdn.githack.com/KLubina/My-Learning-Websites/51e16b941392b7222775aaf5a8ad342130d30034/lernziele-modul-322-branch/lern-webseite-zur-3ten-ZP/index.html
+## 📖 About  
+This is a learning website I created for the first smaller exam in **Module 322** during my apprenticeship as a Software Engineer. The website helps to review and understand the key learning objectives of the module.
+
+## 🚀 Features  
+- Covers important **learning objectives** of Module 322  
+- Simple and **easy-to-navigate** interface  
+- Fully **responsive** design  
